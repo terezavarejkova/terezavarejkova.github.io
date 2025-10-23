@@ -1,0 +1,11 @@
+/* Custom link colors */
+a,
+a:visited {
+  color: #008080; /* your custom color (here: DodgerBlue) */
+}
+
+a:hover,
+a:focus {
+  color: ##016262; /* hover color (example: teal) */
+  text-decoration: underline; /* optional, for visibility */
+}
