@@ -1,3 +1,23 @@
 <div class="author__avatar">
   <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" style="width:auto; height:auto; border-radius:0; object-fit:unset;">
 </div>
+
+
+  <div class="author__name">
+    <a href="{{ site.baseurl }}/">{{ site.author.name }}</a>
+  </div>
+
+  <div class="author__bio">
+    {{ site.author.bio }}
+  </div>
+
+  <div class="social-icons">
+    {% if site.author.linkedin %}
+      <a href="{{ site.author.linkedin }}" target="_blank">LinkedIn</a>
+    {% endif %}
+    {% if site.author.github %}
+      <a href="{{ site.author.github }}" target="_blank">GitHub</a>
+    {% endif %}
+    <!-- Add other social links similarly -->
+  </div>
+</div>
