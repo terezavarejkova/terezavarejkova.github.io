@@ -13,9 +13,13 @@ Welcome! I am an Assistant Professor of Economics at [American University, Schoo
 
 Here is my [CV](https://american0-my.sharepoint.com/:b:/g/personal/tvarejkova_american_edu/EZQY0d5aOdxLjfnnIoeHh6EBilr2UkN1s4FOJFWL12HlHA?e=SanGq6).
 
+<br>
+
 # Contact
 
 **Email:** [tvarejkova@american.edu](mailto:tvarejkova@american.edu)
+
+<br>
 
 # Research
 
@@ -37,6 +41,7 @@ Large-scale surface irrigation is essential in keeping agriculture viable in reg
 I examine the long-term impacts of the 2004 Indian Ocean Tsunami on human capital accumulation. Natural disasters have devastating immediate impacts but their long-term consequences remain underexplored. Through the disruption of schools in the affected areas they can negatively affect enrollment and school completion rates. I study the impact of the 2004 Indian Ocean tsunami on human capital accumulation among the affected children and adolescents. Comparing older and younger cohorts within provinces hit by the tsunami and in the rest of the country in a cross-cohort difference-in-differences framework, I find that the tsunami shock increased primary school completion by 1.8 percentage points, while the effect on lower secondary school completion was negative and insignificant and the effect on upper secondary school completion was positive and insignificant. The young adults affected by the tsunami during lower secondary school age or younger were also more likely to perform unpaid family work. A preliminary exploration of mechanisms suggests that the positive effects on human capital accumulation were concentrated among households who did not migrate away from the affected provinces, thus benefiting from relief aid.
 </details>
 <br>
+
 [Interoperability Between Mobile Money Providers in Tanzania](https://drive.google.com/file/d/1Z0nnF4AEVIZmoX0Clph-pEK5FLoy61wU/view)
 <details>
   <summary>Abstract</summary>
