@@ -14,7 +14,7 @@ Here is my [CV](https://american0-my.sharepoint.com/:b:/g/personal/tvarejkova_am
 
 # Contact
 
-**Email:** [tvarejkova@american.edu](tvarejkova@american.edu)
+**Email:** [tvarejkova@american.edu](mailto:tvarejkova@american.edu)
 
 # Research
 
