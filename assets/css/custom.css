@@ -51,3 +51,14 @@ img {
       border: 0px solid $border-color;
     }
   }
+
+
+/* Increase profile/author photo size */
+.author__avatar img,
+.site-author__avatar img,
+.avatar img,
+.page-header__avatar img {
+  width: 200px !important;   /* change to desired width */
+  height: 200px !important;  /* keep width = height for square/circle */
+  object-fit: cover;         /* ensures image fills box without distortion */
+}
