@@ -4,5 +4,5 @@ title: "CV"
 show_title: false
 ---
 
-<a href="/assets/files/Tereza_CV.pdf" class="btn" target="_blank">Download CV</a>
+<a href="/assets/files/CV_Varejkova_Tereza.pdf" class="btn" target="_blank">Download my CV</a>
 
