@@ -49,13 +49,9 @@ a:focus {
   object-fit: unset !important;      /* display full image without cropping */
 }
 
-/* Remove hover opacity on sidebar/profile images */
-.author__avatar img,
-.site-author__avatar img,
-.avatar img,
-.page-header__avatar img {
-  opacity: 1 !important;      /* fully opaque */
-  transition: none !important; /* remove fade-in/fade-out effect */
-  filter: none !important;     /* remove grayscale filter */
-  -webkit-filter: none !important;
+.author__avatar a,
+.site-author__avatar a,
+.avatar a {
+  pointer-events: none;  /* disables clicks */
+  cursor: default;       /* changes cursor from pointer to default */
 }
