@@ -6,7 +6,7 @@ a:visited {
 
 a:hover,
 a:focus {
-  color: ##016262; /* hover color (example: teal) */
+  color: #016262; /* hover color (example: teal) */
   text-decoration: underline; /* optional, for visibility */
 }
 
