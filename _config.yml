@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Tereza Varejkova"
-  avatar : "/assets/images/bio-photo-square.jpeg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Assistant Professor of Economics at American University, School of Internation Service (AU SIS)."
   links:
    # - label: "Website"
