@@ -33,32 +33,28 @@ a:focus {
   text-decoration: none !important;
 }
 
-/* Remove circular mask from author/profile images */
-.author__avatar img,
-.sidebar img,
-.author__avatar {
-  border-radius: 0 !important; /* removes circle */
-  box-shadow: none !important; /* removes gray ring */
-  filter: none !important;     /* removes any fade effects */
-}
-
-img {
-    max-width: 200px;
-    border-radius: 0%;
-
-    @include breakpoint($large) {
-      padding: 0px;
-      border: 0px solid $border-color;
-    }
-  }
-
-
-/* Increase profile/author photo size */
+/* --- Author/Profile Image Overrides --- */
 .author__avatar img,
 .site-author__avatar img,
 .avatar img,
 .page-header__avatar img {
-  width: 200px !important;   /* change to desired width */
-  height: 200px !important;  /* keep width = height for square/circle */
-  object-fit: cover;         /* ensures image fills box without distortion */
+  border-radius: 0 !important;      /* remove circular mask */
+  border: none !important;           /* remove gray/colored border */
+  box-shadow: none !important;       /* remove shadow if any */
+  filter: none !important;           /* remove grayscale/desaturation */
+  -webkit-filter: none !important;
+  width: auto !important;            /* use original image width */
+  height: auto !important;           /* use original image height */
+  max-width: 100% !important;        /* responsive on smaller screens */
+  object-fit: unset !important;      /* display full image without cropping */
+}
+
+/* Remove hover effects */
+.author__avatar a:hover img,
+.site-author__avatar a:hover img,
+.avatar a:hover img {
+  filter: none !important;
+  -webkit-filter: none !important;
+  transform: none !important;
+  opacity: 1 !important;
 }
