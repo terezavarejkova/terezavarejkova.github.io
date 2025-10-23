@@ -59,8 +59,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "/assets/images/bio-photo.jpg"
-  #avatar : 
+  name   : "Tereza Varejkova
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Assistant Professor of Economics at American University, School of Internation Service (AU SIS)."
   links:
    # - label: "Website"
