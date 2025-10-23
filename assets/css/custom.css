@@ -43,7 +43,7 @@ a:focus {
   box-shadow: none !important;       /* remove shadow if any */
   filter: none !important;           /* remove grayscale/desaturation */
   -webkit-filter: none !important;
-  width: auto !important;            /* use original image width */
+  width: 200px !important;            /* use original image width */
   height: auto !important;           /* use original image height */
   max-width: 200px !important;        /* responsive on smaller screens */
   object-fit: unset !important;      /* display full image without cropping */
