@@ -33,7 +33,21 @@ a:focus {
   text-decoration: none !important;
 }
 
-
+/* --- Author/Profile Image Overrides --- */
+.author__avatar img,
+.site-author__avatar img,
+.avatar img,
+.page-header__avatar img {
+  border-radius: 0 !important;      /* remove circular mask */
+  border: none !important;           /* remove gray/colored border */
+  box-shadow: none !important;       /* remove shadow if any */
+  filter: none !important;           /* remove grayscale/desaturation */
+  -webkit-filter: none !important;
+  width: 200px !important;            /* use original image width */
+  height: auto !important;           /* use original image height */
+  max-width: 200px !important;        /* responsive on smaller screens */
+  object-fit: unset !important;      /* display full image without cropping */
+}
 
 /* --- Disable sidebar hover effects --- */
 .sidebar,
