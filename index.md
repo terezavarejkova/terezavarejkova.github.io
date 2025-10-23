@@ -9,8 +9,6 @@ link_title: false
 show_title: false
 ---
 
-# About
-
 Welcome! I am an Assistant Professor of Economics at [American University, School of International Service (AU SIS)](https://www.american.edu/sis/). I got my PhD in Economics from [University of Maryland, College Park](https://econ.umd.edu/). I am a development economist with an interest in natural resources, environment, and agriculture.
 
 Here is my [CV](https://american0-my.sharepoint.com/:b:/g/personal/tvarejkova_american_edu/EZQY0d5aOdxLjfnnIoeHh6EBilr2UkN1s4FOJFWL12HlHA?e=SanGq6).
