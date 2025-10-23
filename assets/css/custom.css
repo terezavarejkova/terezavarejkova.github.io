@@ -9,3 +9,23 @@ a:focus {
   color: ##016262; /* hover color (example: teal) */
   text-decoration: underline; /* optional, for visibility */
 }
+
+/* Custom overrides for avatar image */
+.author__avatar img {
+  border-radius: 50% !important;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border: none !important;
+  box-shadow: none !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+  transition: none !important;
+}
+
+.author__avatar a:hover img {
+  filter: none !important;
+  -webkit-filter: none !important;
+  opacity: 1 !important;
+  transform: none !important;
+}
