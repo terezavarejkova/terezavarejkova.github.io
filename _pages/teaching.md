@@ -4,8 +4,6 @@ title: "Teaching"
 show_title: false
 ---
 
-# Teaching
-
 ## American University, School of International Service (AU SIS)
 
 Essentials of Economics and Data Analytics (SIS 601), Graduate, Fall 2025
