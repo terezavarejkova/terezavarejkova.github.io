@@ -4,7 +4,6 @@ title: "Research"
 show_title: false
 ---
 
-# Research
 
 ## Working Papers
 
