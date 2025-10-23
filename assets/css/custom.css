@@ -32,3 +32,12 @@ a:focus {
   color: #000 !important;  /* optional: you can change hover color if desired */
   text-decoration: none !important;
 }
+
+/* Remove circular mask from author/profile images */
+.author__avatar img,
+.sidebar img,
+.author__avatar {
+  border-radius: 0 !important; /* removes circle */
+  box-shadow: none !important; /* removes gray ring */
+  filter: none !important;     /* removes any fade effects */
+}
