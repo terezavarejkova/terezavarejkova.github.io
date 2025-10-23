@@ -45,7 +45,7 @@ a:focus {
   -webkit-filter: none !important;
   width: auto !important;            /* use original image width */
   height: auto !important;           /* use original image height */
-  max-width: 100% !important;        /* responsive on smaller screens */
+  max-width: 200px !important;        /* responsive on smaller screens */
   object-fit: unset !important;      /* display full image without cropping */
 }
 
