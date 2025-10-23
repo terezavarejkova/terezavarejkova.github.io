@@ -10,22 +10,25 @@ a:focus {
   text-decoration: underline; /* optional, for visibility */
 }
 
-/* Custom overrides for avatar image */
-.author__avatar img {
-  border-radius: 50% !important;
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border: none !important;
-  box-shadow: none !important;
-  filter: none !important;
-  -webkit-filter: none !important;
-  transition: none !important;
+/* --- Keep site title and author name black --- */
+.site-title,
+.site-title a,
+.site-title a:visited,
+.author__name,
+.author__name a,
+.author__name a:visited {
+  color: #000 !important;  /* force black */
+  text-decoration: none !important;
 }
 
-.author__avatar a:hover img {
-  filter: none !important;
-  -webkit-filter: none !important;
-  opacity: 1 !important;
-  transform: none !important;
+/* --- Keep social icons black --- */
+.social-icons a,
+.page__meta a {
+  color: #000 !important;
+}
+
+.social-icons a:hover,
+.page__meta a:hover {
+  color: #000 !important;  /* optional: you can change hover color if desired */
+  text-decoration: none !important;
 }
