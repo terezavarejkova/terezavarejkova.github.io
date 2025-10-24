@@ -55,7 +55,7 @@ Adoption of Capital- and Labor-Intensive Technologies to Improve Agricultural Ou
 
 Water Allocation Under Farmer Heterogeneity
 
-## Technical Reports
+## Policy Publications
 
 [Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://drive.google.com/file/d/1ZVn1hJtRPIJdbseSSMaG7ilcfaMwBE9u/view), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
 
