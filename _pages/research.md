@@ -15,7 +15,9 @@ Large-scale surface irrigation is essential in keeping agriculture viable in reg
 </details>
 
 **Media coverage:** [Econ That Really Matters](https://www.econthatmatters.com/2024/12/a-dam-good-question-do-all-farmers-benefit-equally-from-large-scale-irrigation-in-south-africa/)
-<br>
+
+<br><br>
+
 [Long-Term Impacts of Natural Disasters on Human Capital Accumulation: Evidence from the 2004 Indian Ocean Tsunami](https://drive.google.com/file/d/1oE8r57D26pls94dTtGZXrm94Ts9qSGnZ/view)
 
 <details>
@@ -37,7 +39,7 @@ Adoption of Capital- and Labor-Intensive Technologies to Improve Agricultural Ou
 
 Water Allocation Under Farmer Heterogeneity
 
-## Technical Reports
+## Policy Publications
 
 [Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://drive.google.com/file/d/1ZVn1hJtRPIJdbseSSMaG7ilcfaMwBE9u/view), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
 
