@@ -13,7 +13,8 @@ Essentials of Economics and Data Analytics (SIS 601), Graduate, Fall 2025
 ### Instructor
 
 Economic Development of Underdeveloped Areas (ECON 315)\
-Intermediate Microeconomic Theory (ECON 306)
+Intermediate Microeconomic Theory (ECON 306)\
+Stata Minicourse
 
 ### Teaching Assistant
 
@@ -24,4 +25,4 @@ Intermediate Microeconomic Analysis (ECON 326)\
 Intermediate Microeconomic Analysis (ECON 306)\
 Estimating Policy and Program Impact (ECON 417)\
 Principles of Microeconomics (ECON 200)\
-Stata Minicourse
+
