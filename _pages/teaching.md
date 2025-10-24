@@ -24,5 +24,5 @@ Program Analysis and Evaluation (ECON 672)\
 Intermediate Microeconomic Analysis (ECON 326)\
 Intermediate Microeconomic Analysis (ECON 306)\
 Estimating Policy and Program Impact (ECON 417)\
-Principles of Microeconomics (ECON 200)\
+Principles of Microeconomics (ECON 200)
 
