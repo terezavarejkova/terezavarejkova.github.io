@@ -11,7 +11,7 @@ show_title: false
 
 Welcome! I am an Assistant Professor of Economics at [American University, School of International Service (AU SIS)](https://www.american.edu/sis/). I got my PhD in Economics from [University of Maryland, College Park](https://econ.umd.edu/). I am a development economist with an interest in natural resources, environment, and agriculture.
 
-Here is my [CV](assets/CV_Varejkova_Tereza_2025).
+Here is my [CV](assets/CV_Varejkova_Tereza_2025.pdf).
 
 <br>
 
