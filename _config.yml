@@ -23,11 +23,15 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: false
-google_analytics: G-5V2SZPMJ67
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5V2SZPMJ67"
+    anonymize_ip: false
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
