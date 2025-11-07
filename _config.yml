@@ -111,6 +111,8 @@ defaults:
       layout: single
       author_profile: true
 
+google_analytics: G-5V2SZPMJ67
+
 category_archive:
   type: liquid
   path: /categories/
