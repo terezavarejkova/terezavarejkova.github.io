@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: false
+google_analytics: G-5V2SZPMJ67
 
 # Build settings
 markdown: kramdown
@@ -110,8 +111,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-google_analytics: G-5V2SZPMJ67
 
 category_archive:
   type: liquid
