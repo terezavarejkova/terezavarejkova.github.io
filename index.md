@@ -25,7 +25,7 @@ Here is my [CV](assets/CV_Varejkova_Tereza_2025.pdf).
 
 ## Working Papers
 
-[Large-Scale Irrigation and Water Use Inequality in South Africa](https://drive.google.com/file/d/15Eu8hwhYqfE0ydEFufy9Omx9UE1vQDF-/view)
+[Large-Scale Irrigation and Water Use Inequality in South Africa](assets/Irrigation_Draft.pdf)
 <details>
   <summary>Abstract</summary>
 Large-scale surface irrigation is essential in keeping agriculture viable in regions prone to drought but it has the potential to exacerbate inequality due to the uneven distribution of its benefits and costs. I investigate this issue in the context of South Africa by estimating heterogeneous effects of irrigation canals on crop productivity and agricultural land expansion by type of farmer. To estimate these effects, I use remote sensing measures of crop yields and a novel land cover classification dataset in a spatial regression discontinuity framework with relative elevation to the nearest canal as the running variable. Areas below the canals serve as the treated group, while areas above serve as the control. The findings show that commercial farmers below canals benefit in terms of higher maize and wheat yields and expand their area under production. Census data further reveal that these expanding commercial farms create employment opportunities for the rural poor. In contrast, subsistence farmers below canals experience lower yields relative to those above and do not expand their cultivated area. Despite the unequal distribution of benefits, a cost-benefit analysis demonstrates that large-scale irrigation infrastructure remains a cost-effective investment.
