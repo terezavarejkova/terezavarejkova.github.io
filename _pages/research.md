@@ -7,7 +7,7 @@ show_title: false
 
 ## Working Papers
 
-[Large-Scale Irrigation and Water Use Inequality in South Africa](https://drive.google.com/file/d/15Eu8hwhYqfE0ydEFufy9Omx9UE1vQDF-/view)
+[Large-Scale Irrigation and Water Use Inequality in South Africa](assets/Irrigation_Draft.pdf)
 
 <details>
   <summary>Abstract</summary>
