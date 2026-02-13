@@ -18,7 +18,7 @@ Large-scale surface irrigation is essential in keeping agriculture viable in reg
 
 <br>
 
-[Long-Term Impacts of Natural Disasters on Human Capital Accumulation: Evidence from the 2004 Indian Ocean Tsunami](https://drive.google.com/file/d/1oE8r57D26pls94dTtGZXrm94Ts9qSGnZ/view)
+[Investing in the Future After a Disaster: Human Capital Accumulation after the 2004 Indian Ocean Tsunami](assets/Tsunami_Draft.pdf)
 
 <details>
   <summary>Abstract</summary>
