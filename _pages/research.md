@@ -44,6 +44,3 @@ Water Allocation Under Farmer Heterogeneity
 [Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://drive.google.com/file/d/1ZVn1hJtRPIJdbseSSMaG7ilcfaMwBE9u/view), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
 
 [Impact Evaluation of the PFR Benin. Endline Report](https://drive.google.com/file/d/1ZeeC1njjXFMVXMqpzbJDzLAzsSnRh_LV/view), *Center for Evaluation and Development (C4ED), 2023, with Nicholas Barton and Clémentine Sadania*
-
-
-[Large-Scale Irrigation and Water Use Inequality in South Africa](https://drive.google.com/file/d/15Eu8hwhYqfE0ydEFufy9Omx9UE1vQDF-/view?pli=1)
