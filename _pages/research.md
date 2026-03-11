@@ -7,7 +7,7 @@ show_title: false
 
 ## Working Papers
 
-[Large-Scale Irrigation and Water Use Inequality in South Africa](/assets/Irrigation_Draft.pdf)
+[Large-Scale Irrigation and Water Use Inequality in South Africa]({{ "/assets/Irrigation_Draft.pdf" | relative_url }})
 
 <details>
   <summary>Abstract</summary>
