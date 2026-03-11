@@ -7,7 +7,7 @@ show_title: false
 
 ## Working Papers
 
-[Large-Scale Irrigation and Water Use Inequality in South Africa](assets/Irrigation_Draft.pdf)
+[Large-Scale Irrigation and Water Use Inequality in South Africa](/assets/Irrigation_Draft.pdf)
 
 <details>
   <summary>Abstract</summary>
@@ -18,7 +18,7 @@ Large-scale surface irrigation is essential in keeping agriculture viable in reg
 
 <br>
 
-[Investing in the Future After a Disaster: Human Capital Accumulation after the 2004 Indian Ocean Tsunami](assets/Tsunami_Draft.pdf)
+[Investing in the Future After a Disaster: Human Capital Accumulation after the 2004 Indian Ocean Tsunami](/assets/Tsunami_Draft.pdf)
 
 <details>
   <summary>Abstract</summary>
