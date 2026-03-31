@@ -34,6 +34,9 @@ This paper examines the impact of interoperability between mobile money provider
 
 ## Work in Progress
 
+Moral Suasion in the Field: Leveraging the Language of Promising for Job Search in Egypt 
+*(with Alexandr Lenk)*
+
 Adoption of Capital- and Labor-Intensive Technologies to Improve Agricultural Outcomes: Evidence from a Dissemination Program in Burkina Faso
 *(with Adrien Bouguen)*
 
