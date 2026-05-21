@@ -25,7 +25,8 @@ Large-scale surface irrigation is essential in keeping agriculture viable in reg
 I examine the long-term impacts of the 2004 Indian Ocean Tsunami on human capital accumulation. Natural disasters have devastating immediate impacts but their long-term consequences remain underexplored. Through the disruption of schools in the affected areas they can negatively affect enrollment and school completion rates. I study the impact of the 2004 Indian Ocean tsunami on human capital accumulation among the affected children and adolescents. Comparing older and younger cohorts within provinces hit by the tsunami and in the rest of the country in a cross-cohort difference-in-differences framework, I find that the tsunami shock increased primary school completion by 1.8 percentage points, while the effect on lower secondary school completion was negative and insignificant and the effect on upper secondary school completion was positive and insignificant. The young adults affected by the tsunami during lower secondary school age or younger were also more likely to perform unpaid family work. A preliminary exploration of mechanisms suggests that the positive effects on human capital accumulation were concentrated among households who did not migrate away from the affected provinces, thus benefiting from relief aid.
 </details>
 <br>
-[Interoperability Between Mobile Money Providers in Tanzania](https://drive.google.com/file/d/1Z0nnF4AEVIZmoX0Clph-pEK5FLoy61wU/view)
+
+[Interoperability Between Mobile Money Providers in Tanzania](https://terezavarejkova.github.io/assets/Interoperability_in_Tanzania.pdf)
 
 <details>
   <summary>Abstract</summary>
@@ -44,6 +45,6 @@ Water Allocation Under Farmer Heterogeneity
 
 ## Policy Publications
 
-[Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://drive.google.com/file/d/1ZVn1hJtRPIJdbseSSMaG7ilcfaMwBE9u/view), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
+[Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://terezavarejkova.github.io/assets/ISFM-Burkina-Faso.pdf), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
 
-[Impact Evaluation of the PFR Benin. Endline Report](https://drive.google.com/file/d/1ZeeC1njjXFMVXMqpzbJDzLAzsSnRh_LV/view), *Center for Evaluation and Development (C4ED), 2023, with Nicholas Barton and Clémentine Sadania*
+[Impact Evaluation of the PFR Benin. Endline Report](https://terezavarejkova.github.io/assets/endline_report_pfr.pdf), *Center for Evaluation and Development (C4ED), 2023, with Nicholas Barton and Clémentine Sadania*
