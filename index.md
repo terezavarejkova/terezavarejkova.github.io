@@ -42,7 +42,7 @@ Natural disasters have devastating immediate impacts but their long-term consequ
 </details>
 <br>
 
-[Interoperability Between Mobile Money Providers in Tanzania](https://drive.google.com/file/d/1Z0nnF4AEVIZmoX0Clph-pEK5FLoy61wU/view)
+[Interoperability Between Mobile Money Providers in Tanzania](assets/Interoperability_in_Tanzania.pdf)
 <details>
   <summary>Abstract</summary>
 This paper examines the impact of interoperability between mobile money providers (MMPs) on mobile money adoption in Tanzania. The introduction of account-to-account (A2A) interoperability, which allows users to transfer funds between accounts across different MMPs, was expected to foster broader adoption by leveraging network externalities and reducing transaction costs. Using data from the Tanzania National Panel Survey (NPS), I develop a differentiated product demand model to estimate the effect of interoperability on mobile money adoption. The model captures how household preferences for interoperability vary by key characteristics such as wealth, education, and urban residence. Results show that households, on average, place a positive value on interoperability, with wealthier, more educated, and urban households exhibiting a stronger preference for interoperable services. This study contributes to the literature on financial inclusion and the importance of regulatory framework in driving mobile money adoption.
