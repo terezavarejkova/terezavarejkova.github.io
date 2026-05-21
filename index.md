@@ -60,6 +60,6 @@ Water Allocation Under Farmer Heterogeneity
 
 ## Policy Publications
 
-[Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://drive.google.com/file/d/1ZVn1hJtRPIJdbseSSMaG7ilcfaMwBE9u/view), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
+[Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](assets/ISFM-Burkina-Faso.pdf), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
 
-[Impact Evaluation of the PFR Benin. Endline Report](https://drive.google.com/file/d/1ZeeC1njjXFMVXMqpzbJDzLAzsSnRh_LV/view), *Center for Evaluation and Development (C4ED), 2023, with Nicholas Barton and Clémentine Sadania*
+[Impact Evaluation of the PFR Benin. Endline Report](assets/endline_report_pfr.pdf), *Center for Evaluation and Development (C4ED), 2023, with Nicholas Barton and Clémentine Sadania*
