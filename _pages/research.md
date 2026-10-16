@@ -43,6 +43,9 @@ Adoption of Capital- and Labor-Intensive Technologies to Improve Agricultural Ou
 
 Water Allocation Under Farmer Heterogeneity
 
+The Cross-Border Transmission of Climate Risk: U.S. Extreme Weather and Mexican Migration
+*(with María Esther Caballero)*
+
 ## Policy Publications
 
 [Impact evaluation of the Integrated Soil Fertility Management Dissemination Programme in Burkina Faso](https://terezavarejkova.github.io/assets/ISFM-Burkina-Faso.pdf), *3ie Impact Evaluation Report 123, International Initiative for Impact Evaluation (3ie), 2020, with Adrien Bouguen, Markus Frölich, Estelle Koussoubé, and Eugénie Maïga*
