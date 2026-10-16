@@ -6,7 +6,7 @@ show_title: false
 
 ## American University, School of International Service (AU SIS)
 
-Essentials of Economics and Data Analytics (SIS 601), Graduate, Fall 2025, Spring 2026, Fall 2026
+Essentials of Economics and Data Analytics (SIS 601), Graduate, Fall 2025, Spring 2026, Fall 2026\
 Project Development, Monitoring, and Evaluation (SIS 750), Graduate, Fall 2026
 
 ## University of Maryland
