@@ -54,7 +54,7 @@ The Cross-Border Transmission of Climate Risk: U.S. Extreme Weather and Mexican 
 *(with María Esther Caballero)* <br>
 <small> **Funding:** 2026 Faculty Research Incubator Grant from the Center of Environment, Community, & Equity at American University ($25,000) </small>
 
-Moral Suasion in the Field: Leveraging the Language of Promising for Job Search in Egypt
+Moral Suasion in the Field: Leveraging the Moral Salience Language for Job Search in Egypt
 *(with Alexandr Lenk)* <br>
 <small> **Funding:** School of International Service Dean's Research Award ($5,000) </small>
 
