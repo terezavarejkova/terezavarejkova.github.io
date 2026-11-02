@@ -51,13 +51,11 @@ This paper examines the impact of interoperability between mobile money provider
 ## Work in Progress
 
 The Cross-Border Transmission of Climate Risk: U.S. Extreme Weather and Mexican Migration
-*(with María Esther Caballero)*
-
+*(with María Esther Caballero)* <br>
 <small> **Funding:** 2026 Faculty Research Incubator Grant from the Center of Environment, Community, & Equity at American University ($25,000) </small>
 
 Moral Suasion in the Field: Leveraging the Language of Promising for Job Search in Egypt
-*(with Alexandr Lenk)*
-
+*(with Alexandr Lenk)* <br>
 <small> **Funding:** School of International Service Dean's Research Award ($5,000) </small>
 
 Adoption of Capital- and Labor-Intensive Technologies to Improve Agricultural Outcomes: Evidence from a Dissemination Program in Burkina Faso
